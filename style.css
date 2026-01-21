@@ -1,6 +1,6 @@
 paragraph {
     font-family:Arial,  sans-serif;
-    background-colour : white;
+    background-colour :red;
 
 }
     body {
@@ -12,7 +12,7 @@ paragraph {
 }
 
 header {
-    background:black;
+    background:black ;
     color: #fff;
     padding: 0;
     text-align: center;
